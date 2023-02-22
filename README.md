@@ -1,0 +1,1 @@
+This repositories contais some simples exercicies about arithmetics expressions using java
